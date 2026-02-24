@@ -113,7 +113,7 @@ El archivo `utacuarto1.sql` contiene todas las tablas necesarias:
 
 Después de importar la base de datos, puedes usar:
 - **Usuario**: admin
-- **Contraseña**: 12345
+- **Contraseña**: admin123
 
 ⚠️ **Importante**: Cambia estas credenciales en producción.
 
